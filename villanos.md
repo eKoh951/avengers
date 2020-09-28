@@ -1,4 +1,5 @@
 # Villanos
 
-# Dr. Doom
-# Red Skull
+* Dr. Doom
+* Capitán America
+* Red Skull
